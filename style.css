@@ -1,0 +1,152 @@
+h1 {
+    color: white;
+    font-size: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    font-size: 3.5rem;
+    font-family: Arial,  Helvetica, sans-serif;
+    text-align: center;
+}
+
+.chartContainer {
+    background-color: rgb(198, 202, 212);
+    align-items: center;
+    justify-content: center;
+    border: .5em rgb(246, 248, 247) solid;
+    padding: 1em;
+    margin-left: .7em;
+    margin-right: .7em;
+}
+
+.tenses {
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    display: inline;
+    display: flex;
+    justify-items: center;
+    direction: horizontal;
+    text-align: center;
+    font-display: underline;
+
+
+
+}
+.presentTense {
+    padding: .5em;
+    margin: left .5em;
+    margin: right .5em;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(198, 144, 248);
+
+}
+
+.imperfectTense {
+    padding: .5em;
+    margin: left .5em;
+    margin: right .5;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(242, 144, 248);
+}
+
+.futureTense {
+    padding: .5em;
+    margin: left .5em;
+    margin: right .5em;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(249, 135, 163);
+}
+
+.perfectTense {
+    padding: .5em;
+    margin: left .5em;
+    margin: right .5em;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(245, 154, 121);
+}
+
+.pluperfectTense {
+    padding: .5em;
+    margin: left .5em;
+    margin: right .5em;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(241, 113, 94);
+}
+
+.futurePerfectTense {
+    padding: .5em;
+    margin: left .5em;
+    margin: right .5em;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(235, 235, 146);
+}
+
+.singular {
+    font-size: .9rem;
+    font-family: Arial, Helvetica, sans-serif;
+    display: table-row;
+    display: inline-block;
+    direction: horizontal;
+    width: 1em;
+
+}
+
+.plural {
+    font-size: .9rem;
+    font-family: Arial, Helvetica, sans-serif;
+    display: table-row;
+    display: table-row;
+    display: inline-block;
+    width: 1em;
+}
+
+.latinConj {
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 20em;
+    display: flex;
+    margin: auto;
+    display: inline;
+    direction: horizontal;
+    text-align: left;
+}
+
+.example {
+    font-size: .8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 20em;
+    display: flex;
+    display:inline;
+    margin: auto;
+    display: inline;
+    direction: horizontal;
+    text-align: right;
+    margin-left: 1.5em;
+}
